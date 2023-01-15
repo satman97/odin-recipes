@@ -1,0 +1,20 @@
+ol {
+    color: blue;
+}
+
+ul {
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    font-weight: bold;
+}
+
+h4 {
+    color: pink;
+    background-color: black;
+}
